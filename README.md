@@ -70,6 +70,3 @@ chmod +x MagicInjection.py
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-
-Let me know if you'd like me to generate a full example `MagicInjection.py` script or also create a `LICENSE` and `.gitignore` to make the project GitHub-ready.
